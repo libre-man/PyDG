@@ -1,0 +1,5 @@
+astor==0.6.2
+graphviz==0.8.2
+matplotlib==2.2.2
+mypy==0.580
+networkx==2.1
